@@ -1,0 +1,5 @@
+[project]
+name = "ec2b"
+description = "A simple library, written in pure Python, to generate xorpad."
+version = "0.1"
+readme = "README.md"
